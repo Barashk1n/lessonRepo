@@ -1,3 +1,5 @@
 console.log (div);
 console.log();
-console.log('Hello!');
+
+const a = 1
+let b = 2
